@@ -36,8 +36,4 @@ NOTE: This section is under development...
 ## Credits
 [![Code_With_Interview](https://img.shields.io/badge/Code_With_Interview-20B63A?style=for-the-badge)](https://www.youtube.com/@codeforinterview)
 
-## Feedback
-
-Feel free to give your feedback on this project to mudhapakamanohar@gmail.com 
-
 Kindly rate a star⭐ If you have liked this project
